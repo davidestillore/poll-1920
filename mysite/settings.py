@@ -25,7 +25,7 @@ SECRET_KEY = 'g(9e#d#a=49+i%l^k%0u*i!_+d_n4d5@@5^*gld4%2vm4ypm@w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [‘poll-1920.herokuapp.com’, ‘127.0.0.2’]
 
 
 # Application definition
